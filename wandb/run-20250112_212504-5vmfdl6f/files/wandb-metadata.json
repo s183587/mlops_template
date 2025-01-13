@@ -1,0 +1,100 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "CPython 3.11.11",
+    "heartbeatAt": "2025-01-12T20:25:05.563492",
+    "startedAt": "2025-01-12T20:25:04.436270",
+    "docker": null,
+    "args": [
+        "service",
+        "--debug",
+        "--port-filename",
+        "/tmp/tmp8vb8kd64/port-25299.txt",
+        "--pid",
+        "25299"
+    ],
+    "state": "running",
+    "program": "/home/lchristiansen/mlops_template/src/mlops_myproject/train.py",
+    "codePathLocal": "src/mlops_myproject/train.py",
+    "codePath": "src/mlops_myproject/train.py",
+    "host": "DESKTOP-EIA9F3J",
+    "username": null,
+    "executable": "/home/lchristiansen/miniconda3/envs/my_environment/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2904.0100000000007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2904.01,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1081101176832,
+            "used": 36294127616
+        }
+    },
+    "memory": {
+        "total": 16635838464
+    }
+}

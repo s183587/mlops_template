@@ -1,0 +1,27 @@
+{
+  "os":  "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "python":  "CPython 3.11.11",
+  "startedAt":  "2025-01-12T19:24:15.971072Z",
+  "program":  "/home/lchristiansen/mlops_template/src/mlops_myproject/train.py",
+  "codePath":  "train.py",
+  "email":  "s183587@dtu.dk",
+  "root":  "/home/lchristiansen/mlops_template/src/mlops_myproject",
+  "host":  "DESKTOP-EIA9F3J",
+  "executable":  "/home/lchristiansen/miniconda3/envs/my_environment/bin/python",
+  "codePathLocal":  "train.py",
+  "cpu_count":  6,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "35661713408"
+    }
+  },
+  "memory":  {
+    "total":  "16635838464"
+  },
+  "cpu":  {
+    "count":  6,
+    "countLogical":  12
+  }
+}
