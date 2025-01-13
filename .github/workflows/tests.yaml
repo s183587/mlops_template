@@ -33,8 +33,11 @@ jobs:
           pip install -r requirements.txt
           pip list
 
-
       - name: Run tests & coverage
         run: |
           coverage run -m pytest tests/
           coverage report -m
+
+      # Added a comment to trigger a change
+      - name: Display Python version
+        run: python --version
